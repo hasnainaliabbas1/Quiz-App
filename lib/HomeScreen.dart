@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
   String lead="---";
   String proUrl="---";
   String level="0";
-  late List quizzes =[git ] ;
+  late List quizzes =[ ] ;
   getUserDetails() async{
     await LocalDB.getName().then((value){
       setState((){
