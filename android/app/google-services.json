@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "117901228077",
+    "project_id": "tutotial-77e5a",
+    "storage_bucket": "tutotial-77e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117901228077:android:cf0f301be98c9b4325e0a4",
+        "android_client_info": {
+          "package_name": "com.example.quizmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117901228077-gba22kr154amf5eqoo7d4r03e74702vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizmaker",
+            "certificate_hash": "672dca7a71029b8087d5045bdfa1d6dbe82ace91"
+          }
+        },
+        {
+          "client_id": "117901228077-a00pct11ueest9une4sql686cpgnbulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-uVmT5BwFKpyFXFPD1_pUP5LfFSXFes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117901228077-a00pct11ueest9une4sql686cpgnbulu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117901228077-iacs50f8vr01m05p473afltv87ee9jrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizmaker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117901228077:android:d3c58a3f153d336325e0a4",
+        "android_client_info": {
+          "package_name": "com.example.quizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117901228077-a00pct11ueest9une4sql686cpgnbulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-uVmT5BwFKpyFXFPD1_pUP5LfFSXFes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117901228077-a00pct11ueest9une4sql686cpgnbulu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117901228077-iacs50f8vr01m05p473afltv87ee9jrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizmaker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
